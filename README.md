@@ -117,11 +117,6 @@ A free anxiety & panic-relief app with guided breathing, CBT thought records, ca
 ### 📈 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=majdukovic&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majdukovic&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=majdukovic&hide_border=true" alt="GitHub streak" />
 </div>
 
